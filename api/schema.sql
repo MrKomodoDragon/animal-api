@@ -1,0 +1,1 @@
+CREATE TABLE animals (id SERIAL, common_name VARCHAR, scientific_name VARCHAR, weight INT, length INT, height INT, family VARCHAR, genus VARCHAR, habitat VARCHAR, population INT, description TEXT);   
